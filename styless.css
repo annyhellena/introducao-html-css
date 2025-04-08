@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+box-sizing: border-box;
+margin: 0 auto;
+padding:0 auto;
+}
+
+h1{
+    color: #e1771d;
+}
+
+h2{
+    color: #ead03a;
+}
+
+h3{
+    color: #e3e6e5;
+}
+h4{
+    color:#09b5c2;
+}
+h5{
+    color: #0168c0;
+}
+
+body{
+background-color: #000;
+text-align: center; 
+font-family: "Roboto Condensed", sans-serif;
+
+}
